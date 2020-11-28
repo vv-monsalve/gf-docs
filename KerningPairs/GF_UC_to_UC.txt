@@ -23,7 +23,6 @@ CG
 DA
 DJ
 DT
-DU
 DV
 DW
 DX
@@ -76,7 +75,6 @@ LJ
 LO
 LQ
 LT
-LU
 LV
 LW
 LX
@@ -93,6 +91,7 @@ OX
 OY
 OZ
 PA
+PÆ
 PJ
 PS
 PU
@@ -124,6 +123,7 @@ SW
 SY
 SZ
 TA
+TÆ
 TC
 TG
 TJ
@@ -141,6 +141,7 @@ UO
 UQ
 UT
 VA
+VÆ
 VC
 VG
 VJ
